@@ -13,7 +13,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  flutter_keyboard_visibility:
+  flutter_keyboard_visibility_fork:
     # When depending on this package from a real application you should use:
     #   flutter_keyboard_visibility: ^x.y.z
     # See https://dart.dev/tools/pub/dependencies#version-constraints

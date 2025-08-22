@@ -1,8 +1,8 @@
-name: flutter_keyboard_visibility
+name: flutter_keyboard_visibility_fork
 description: Flutter plugin for discovering the state of the soft-keyboard visibility on Android and iOS.
-version: 6.0.1
-homepage: https://github.com/MisterJimson/flutter_keyboard_visibility
-repository: https://github.com/MisterJimson/flutter_keyboard_visibility
+version: 0.0.1
+homepage: https://github.com/flower0wine/flutter_keyboard_visibility
+repository: https://github.com/flower0wine/flutter_keyboard_visibility
 
 environment:
   sdk: ">=2.12.0 <4.0.0"
@@ -29,7 +29,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.jrai.flutter_keyboard_visibility
+        package: com.flower0wine.flutter_keyboard_visibility_fork
         pluginClass: FlutterKeyboardVisibilityPlugin
       ios:
         pluginClass: FlutterKeyboardVisibilityPlugin

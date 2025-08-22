@@ -1,3 +1,6 @@
+## [0.0.1] - August 22, 2025
+* Forked from flutter_keyboard_visibility
+
 ## [6.0.0] - December 19, 2023
 * 5.4.3 republished as a new major version. The Android Gradle changes were breaking for some users so 5.4.3 was unpublished. Using this version may require you to update your Android Gradle version.
 
