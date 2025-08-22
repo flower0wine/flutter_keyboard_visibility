@@ -1,3 +1,6 @@
+## [0.0.2] - August 22, 2025
+* 修复 Android 包名错误
+
 ## [0.0.1] - August 22, 2025
 * Forked from flutter_keyboard_visibility
 
